@@ -1,4 +1,4 @@
-re('./06_module.js');
+var filter = require('./06_module.js');
 var directory = process.argv[2];
 var ext = process.argv[3];
 
